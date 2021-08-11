@@ -1,4 +1,4 @@
-# Automobile-data-analysis
+# automobile-data-analysis
 A little data analysis project for the school assignment.
 Calculates the mean, median, standart deviation, variance etc. of this auto.csv dataset.
 It also finds the most expensive, cheapest car model, brand, make year etc.
